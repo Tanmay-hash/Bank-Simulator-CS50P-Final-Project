@@ -1,4 +1,4 @@
-# Bank Simulator
+# Financial Transaction Management System
 #### Video Demo: https://youtu.be/1kdiuzP4Pwk
 #### Description:
 A bank simulator developed during CS50P with account management and stock price retrieval using the Twelve Data API.
