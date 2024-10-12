@@ -1,7 +1,7 @@
 # Bank Simulator
 #### Video Demo: https://youtu.be/1kdiuzP4Pwk
 #### Description:
-This project simulates of a Bank, with functions like opening of a bank account, depositing and withdrawing.It also uses an API for getting price per minute of a given stock.
+A bank simulator developed during CS50P with account management and stock price retrieval using the Twelve Data API.
 
 ## Account Class
 The project has a class "Account" that simulates a bank account. The __init__ method initialises a bank account with self.number which calls the account_number() function and generates an account number between 1000000000 and 999999999999.
